@@ -1,0 +1,55 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: #ffffff;
+	font-size: 18px;
+	font-family: sans-serif;
+}
+
+h1 {
+    background: aqua;
+    color: white;
+    padding: 7px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+a {
+    color: #0c7ef5;
+	margin: 30px;
+}
+
+h3 {
+    background: #0089ff;
+    color: white;
+    padding: 5px;
+}
+
+
+form {
+    margin: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+}
+
+input {
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 4px;
+    margin: 4px;
+    border: 2px solid #0089ff;
+    border-radius: 7px;
+    color: #0089ff;
+}
+
+.errors {
+	margin-left: 50px;
+    color: red;
+}
